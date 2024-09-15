@@ -300,6 +300,20 @@ header {
   }
 }
 
+.card img {
+  max-width: 50%;
+  max-height: auto;
+  margin-left: 5em;
+}
+
+.card {
+  width: 18em;
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 2em;
+  border: 2px black solid;
+}
+
 /*STYLING FOR FOOTER*/
 
 footer {
